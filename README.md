@@ -31,4 +31,6 @@ To view the webpage, Click on About section link https://sumitxcoding.github.io/
 Clone the repository to your local machine using:
 
 ```bash
-git clone https://github.com/SumitXCoding/oneplus-product-showcase.git
+git clone https://github.com/SumitXCoding/OctaNet-Task1.git
+
+
