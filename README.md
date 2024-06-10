@@ -19,6 +19,8 @@ This project features a modern and responsive webpage showcasing the OnePlus pro
 - CSS
 - Google Fonts
 - JAVASCRIPT
+- FAVICON
+- REMIX ICONS
 
 ## Usage
 
